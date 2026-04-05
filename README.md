@@ -9,7 +9,9 @@
 
 #功能四：测试模型可用
 
-#功能五：css自动导入cc-switch功能
+#功能五：ccs自动导入cc-switch功能
+
+修复功能五：修复ccs一键导入到cc-switch的时候，只能导入到codex，现在可以自由选择导入到codex，或者claude了。后续会根据自己使用情况添加其他模型导入。
 
 <img width="720" height="600" alt="image" src="https://github.com/user-attachments/assets/d8f9a511-869a-4e68-a0e3-8f4c01472c18" />
 
